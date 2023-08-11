@@ -12,7 +12,3 @@ $gabin = new Doyen("Gabin");
 
 
 echo $ozil->volerArgent();
-
-echo "<pre>";
-var_dump($moses, $deo, $ozil, $gabin);
-echo "</pre>";
